@@ -1,0 +1,5 @@
+{
+  "name": "Free Image to Prompt Generator",
+  "description": "Upload an image and use AI to generate a detailed descriptive prompt suitable for image generation models. Get inspired and create amazing art with prompts derived from your favorite images.",
+  "requestFramePermissions": []
+}
